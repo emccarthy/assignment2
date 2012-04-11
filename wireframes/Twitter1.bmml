@@ -1,0 +1,126 @@
+<mockup version="1.0" skin="sketch" measuredW="336" measuredH="557" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="223" controlTypeID="com.balsamiq.mockups::Paragraph" x="101" y="389" w="207" h="60" measuredW="200" measuredH="80" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <size>11</size>
+        <text>Opening%20Ceremony%20Fifa%20World%20Cup%0ANelson%20Mandela%20%20Dung%20Beetle%0ADeddy%20Corbuzier%20%20Femi%20Kuti</text>
+      </controlProperties>
+    </control>
+    <control controlID="225" controlTypeID="com.balsamiq.mockups::Canvas" x="83" y="146" w="226" h="32" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="226" controlTypeID="com.balsamiq.mockups::Canvas" x="81" y="148" w="226" h="15" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="228" controlTypeID="com.balsamiq.mockups::PointyButton" x="85" y="149" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>4144959</color>
+        <direction>center</direction>
+        <href>Action%26bm%3BAction.bmml%26bm%3BAction.bmml%26bm%3BAction.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C102%2C92%2C129%22%20href%3D%22Action.bmml%22%20alt%3D%22Action%22%20id%3D%22228%22/%3E</map>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="229" controlTypeID="com.balsamiq.mockups::Canvas" x="88" y="182" w="214" h="137" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>10470904</color>
+      </controlProperties>
+    </control>
+    <control controlID="230" controlTypeID="com.balsamiq.mockups::Label" x="92" y="197" w="-1" h="-1" measuredW="58" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>twitter</text>
+      </controlProperties>
+    </control>
+    <control controlID="231" controlTypeID="com.balsamiq.mockups::PointyButton" x="223" y="199" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <href>Twitter2%26bm%3BTwitter2.bmml%26bm%3BTwitter2.bmml%26bm%3BTwitter2.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22169%2C152%2C233%2C179%22%20href%3D%22Twitter2.bmml%22%20alt%3D%22Twitter2%22%20id%3D%22231%22/%3E</map>
+        <size>11</size>
+        <text>%20%20%20Sign%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="232" controlTypeID="com.balsamiq.mockups::Icon" x="229" y="205" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightArrowIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="233" controlTypeID="com.balsamiq.mockups::TextInput" x="94" y="265" w="122" h="-1" measuredW="18" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="234" controlTypeID="com.balsamiq.mockups::PointyButton" x="223" y="265" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <size>11</size>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="235" controlTypeID="com.balsamiq.mockups::Label" x="94" y="246" w="-1" h="-1" measuredW="116" measuredH="17" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>What%27s%20being%20said%20about...</text>
+      </controlProperties>
+    </control>
+    <control controlID="236" controlTypeID="com.balsamiq.mockups::Canvas" x="88" y="303" w="214" h="161" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="237" controlTypeID="com.balsamiq.mockups::Label" x="90" y="305" w="210" h="25" measuredW="89" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>7317724</color>
+        <text>Popular%20Topics</text>
+      </controlProperties>
+    </control>
+    <control controlID="238" controlTypeID="com.balsamiq.mockups::Label" x="92" y="326" w="-1" h="-1" measuredW="27" measuredH="17" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>16777215</color>
+        <size>10</size>
+        <text>Now</text>
+      </controlProperties>
+    </control>
+    <control controlID="239" controlTypeID="com.balsamiq.mockups::Paragraph" x="92" y="345" w="207" h="49" measuredW="200" measuredH="80" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <size>11</size>
+        <text>CALA%20BOCA%20GALVANO%20%20Jaden%20Smith%0AFIFA%20World%20Cup%20%20A-Team</text>
+      </controlProperties>
+    </control>
+    <control controlID="240" controlTypeID="com.balsamiq.mockups::Link" x="94" y="364" w="-1" h="-1" measuredW="143" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="241" controlTypeID="com.balsamiq.mockups::Label" x="92" y="386" w="-1" h="-1" measuredW="33" measuredH="17" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>16777215</color>
+        <size>10</size>
+        <text>Today</text>
+      </controlProperties>
+    </control>
+    <control controlID="242" controlTypeID="com.balsamiq.mockups::iPhone" x="54" y="47" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="243" controlTypeID="com.balsamiq.mockups::Label" x="81" y="149" w="225" h="23" measuredW="56" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>16777215</color>
+        <size>14</size>
+        <text>recipMe</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,142 @@
+<mockup version="1.0" skin="sketch" measuredW="289" measuredH="529" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="332" controlTypeID="__group__" x="7" y="19" w="282" h="510" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="332"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="333" controlTypeID="com.balsamiq.mockups::Canvas" x="34" y="118" w="227" h="32" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="334" controlTypeID="com.balsamiq.mockups::Canvas" x="32" y="120" w="227" h="15" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="335" controlTypeID="__group__" x="32" y="121" w="226" h="23" measuredW="226" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="226" h="23" measuredW="64" measuredH="22" zOrder="0" locked="false" isInGroup="335">
+          <controlProperties>
+            <align>center</align>
+            <color>16777215</color>
+            <size>14</size>
+            <text>recipeMe</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="336" controlTypeID="com.balsamiq.mockups::PointyButton" x="36" y="121" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>4144959</color>
+        <direction>center</direction>
+        <href>Action%26bm%3BAction.bmml%26bm%3BAction.bmml%26bm%3BAction.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C102%2C90%2C129%22%20href%3D%22Action.bmml%22%20alt%3D%22Action%22%20id%3D%22336%22/%3E</map>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="337" controlTypeID="com.balsamiq.mockups::Canvas" x="35" y="149" w="227" h="300" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>10470904</color>
+      </controlProperties>
+    </control>
+    <control controlID="338" controlTypeID="com.balsamiq.mockups::Label" x="37" y="145" w="-1" h="-1" measuredW="58" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>twitter</text>
+      </controlProperties>
+    </control>
+    <control controlID="339" controlTypeID="com.balsamiq.mockups::Label" x="210" y="150" w="-1" h="-1" measuredW="44" measuredH="18" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>16777215</color>
+        <size>11</size>
+        <text>Refresh</text>
+      </controlProperties>
+    </control>
+    <control controlID="340" controlTypeID="com.balsamiq.mockups::Icon" x="192" y="151" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>ReloadIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="341" controlTypeID="com.balsamiq.mockups::Canvas" x="42" y="179" w="212" h="219" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="342" controlTypeID="com.balsamiq.mockups::Canvas" x="42" y="179" w="212" h="23" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="343" controlTypeID="com.balsamiq.mockups::Label" x="44" y="179" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sign%20in%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="344" controlTypeID="com.balsamiq.mockups::Label" x="46" y="203" w="119" h="23" measuredW="106" measuredH="20" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Username%20or%20email</text>
+      </controlProperties>
+    </control>
+    <control controlID="345" controlTypeID="com.balsamiq.mockups::TextInput" x="46" y="224" w="156" h="-1" measuredW="18" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="346" controlTypeID="com.balsamiq.mockups::Label" x="46" y="251" w="119" h="23" measuredW="58" measuredH="20" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="347" controlTypeID="com.balsamiq.mockups::TextInput" x="46" y="272" w="156" h="-1" measuredW="18" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="348" controlTypeID="com.balsamiq.mockups::PointyButton" x="46" y="322" w="202" h="-1" measuredW="58" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <href>Twitter3%26bm%3BTwitter3.bmml%26bm%3BTwitter3.bmml%26bm%3BTwitter3.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2239%2C303%2C241%2C330%22%20href%3D%22Twitter3.bmml%22%20alt%3D%22Twitter3%22%20id%3D%22348%22/%3E</map>
+        <text>Sign%20in</text>
+      </controlProperties>
+    </control>
+    <control controlID="349" controlTypeID="com.balsamiq.mockups::Label" x="48" y="363" w="-1" h="-1" measuredW="134" measuredH="17" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Don%27t%20have%20a%20Twitter%20acount%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="350" controlTypeID="com.balsamiq.mockups::Label" x="196" y="363" w="-1" h="-1" measuredW="36" measuredH="17" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+        <size>10</size>
+        <text>Sign%20up</text>
+      </controlProperties>
+    </control>
+    <control controlID="351" controlTypeID="com.balsamiq.mockups::Label" x="48" y="376" w="-1" h="-1" measuredW="27" measuredH="17" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+        <size>10</size>
+        <text>now%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="352" controlTypeID="com.balsamiq.mockups::Label" x="44" y="407" w="206" h="20" measuredW="129" measuredH="17" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>472931</color>
+        <size>10</size>
+        <text>Download%20Twitter%20for%20iPhone</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

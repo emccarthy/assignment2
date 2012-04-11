@@ -1,0 +1,129 @@
+<mockup version="1.0" skin="sketch" measuredW="334" measuredH="1097" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="150" controlTypeID="__group__" x="52" y="587" w="282" h="510" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Facebook%20Share</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="0" y="0" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="150">
+          <controlProperties>
+            <bgPattern>topBlueBottom</bgPattern>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="28" y="104" w="224" h="36" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="150">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>8554646</color>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="26" y="108" w="230" h="25" measuredW="117" measuredH="21" zOrder="2" locked="false" isInGroup="150">
+          <controlProperties>
+            <align>center</align>
+            <size>13</size>
+            <text>Share%20on%20Facebook</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="32" y="108" w="217" h="316" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="150">
+          <controlProperties>
+            <borderColor>5000268</borderColor>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>5000268</color>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="38" y="119" w="206" h="27" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="150">
+          <controlProperties>
+            <color>5865130</color>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="66" y="120" w="134" h="23" measuredW="79" measuredH="21" zOrder="5" locked="false" isInGroup="150">
+          <controlProperties>
+            <color>15790322</color>
+            <text>Publish%20Story</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="42" y="123" w="20" h="17" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="150">
+          <controlProperties>
+            <borderColor>16512</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>255</color>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="46" y="122" w="12" h="25" measuredW="11" measuredH="21" zOrder="7" locked="false" isInGroup="150">
+          <controlProperties>
+            <color>15790322</color>
+            <text>f</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="38" y="142" w="206" h="19" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="150">
+          <controlProperties>
+            <color>13158600</color>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="39" y="157" w="205" h="252" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="150"/>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Paragraph" x="44" y="161" w="198" h="38" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="150">
+          <controlProperties>
+            <bold>true</bold>
+            <size>10</size>
+            <text>Publish%20to%20your%20Wall%20and%20your%20friend%27s%20home%20pages%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="41" y="375" w="198" h="33" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="150">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15132390</color>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="120" y="378" w="47" h="28" measuredW="46" measuredH="27" zOrder="12" locked="false" isInGroup="150">
+          <controlProperties>
+            <size>12</size>
+            <text>Skip</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="169" y="378" w="71" h="28" measuredW="59" measuredH="27" zOrder="13" locked="false" isInGroup="150">
+          <controlProperties>
+            <color>5865130</color>
+            <size>12</size>
+            <text>Publish</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::HRule" x="42" y="375" w="197" h="-1" measuredW="100" measuredH="5" zOrder="14" locked="false" isInGroup="150">
+          <controlProperties>
+            <color>5000268</color>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="44" y="195" w="198" h="38" measuredW="200" measuredH="80" zOrder="15" locked="false" isInGroup="150">
+          <controlProperties>
+            <bold>true</bold>
+            <color>5263440</color>
+            <size>10</size>
+            <text>Enter%20a%20personal%20message%20describing%20this%20link%20%28optional%29%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="44" y="231" w="193" h="-1" measuredW="34" measuredH="27" zOrder="16" locked="false" isInGroup="150">
+          <controlProperties>
+            <text>%20%20%20%20%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::Paragraph" x="45" y="262" w="210" h="59" measuredW="200" measuredH="80" zOrder="17" locked="false" isInGroup="150">
+          <controlProperties>
+            <color>545684</color>
+            <size>10</size>
+            <text>Check%20out%20this%20cool%20iPhone%20app%20now%20available%20in%20the%20App%20Store%21</text>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="46" y="299" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="18" locked="false" isInGroup="150">
+          <controlProperties>
+            <icon>ThumbsUpIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="19" controlTypeID="com.balsamiq.mockups::Paragraph" x="68" y="299" w="161" h="24" measuredW="200" measuredH="80" zOrder="19" locked="false" isInGroup="150">
+          <controlProperties>
+            <color>5263440</color>
+            <size>10</size>
+            <text>Not%20Published%20Yet%20via%20recipMe</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

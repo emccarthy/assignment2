@@ -1,0 +1,124 @@
+<mockup version="1.0" skin="sketch" measuredW="334" measuredH="543" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhone" x="52" y="33" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="__group__" x="78" y="116" w="226" h="32" measuredW="226" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Header</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="226" h="32" measuredW="226" measuredH="32" zOrder="0" locked="false" isInGroup="2">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="226" h="32" measuredW="226" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="2" y="0" w="224" h="32" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <color>0</color>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="2" w="224" h="15" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <backgroundAlpha>0.25</backgroundAlpha>
+                    <borderStyle>none</borderStyle>
+                    <color>13421772</color>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="3" w="223" h="23" measuredW="64" measuredH="22" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <align>center</align>
+                <color>16777215</color>
+                <size>14</size>
+                <text>recipeMe</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="8" y="3" w="58" h="-1" measuredW="53" measuredH="27" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>4144959</color>
+                <direction>left</direction>
+                <size>10</size>
+                <text>Results</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ModalScreen" x="76" y="116" w="235" h="72" measuredW="320" measuredH="240" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="94" y="202" w="190" h="24" measuredW="200" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>16777215</color>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C169%2C232%2C193%22%20href%3D%22RecipeDetail.bmml%22%20alt%3D%22RecipeDetail%22%20id%3D%226%22/%3E</map>
+        <size>12</size>
+        <text>Selected%20Recipe%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::PointyButton" x="94" y="381" w="187" h="-1" measuredW="132" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <direction>center</direction>
+        <href>Facebook1%26bm%3BFacebook1.bmml%26bm%3BFacebook1.bmml%26bm%3BFacebook1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C348%2C229%2C375%22%20href%3D%22Facebook1.bmml%22%20alt%3D%22Facebook1%22%20id%3D%227%22/%3E</map>
+        <size>13</size>
+        <text>Share%20on%20Facebook</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::PointyButton" x="94" y="417" w="188" h="-1" measuredW="61" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>4144959</color>
+        <direction>center</direction>
+        <href>RecipeDetail%26bm%3BRecipeDetail.bmml%26bm%3BRecipeDetail.bmml%26bm%3BRecipeDetail.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C384%2C230%2C411%22%20href%3D%22RecipeDetail.bmml%22%20alt%3D%22RecipeDetail%22%20id%3D%228%22/%3E</map>
+        <size>13</size>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::PointyButton" x="94" y="238" w="187" h="-1" measuredW="123" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <direction>center</direction>
+        <href>Favs%26bm%3BFavs.bmml%26bm%3BFavs.bmml%26bm%3BFavs.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C205%2C229%2C232%22%20href%3D%22Favs.bmml%22%20alt%3D%22Favs%22%20id%3D%229%22/%3E</map>
+        <text>Add%20to%20Favourites</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="94" y="346" w="187" h="-1" measuredW="109" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <direction>center</direction>
+        <href>Twitter1%26bm%3BTwitter1.bmml%26bm%3BTwitter1.bmml%26bm%3BTwitter1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C313%2C229%2C340%22%20href%3D%22Twitter1.bmml%22%20alt%3D%22Twitter1%22%20id%3D%2210%22/%3E</map>
+        <text>Post%20on%20Twitter</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::PointyButton" x="94" y="274" w="187" h="-1" measuredW="137" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <direction>center</direction>
+        <href>ShoppingList%26bm%3BShoppingList.bmml%26bm%3BShoppingList.bmml%26bm%3BShoppingList.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C241%2C229%2C268%22%20href%3D%22ShoppingList.bmml%22%20alt%3D%22ShoppingList%22%20id%3D%2211%22/%3E</map>
+        <text>Add%20to%20Shopping%20List</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::PointyButton" x="94" y="310" w="187" h="-1" measuredW="101" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <direction>center</direction>
+        <href>Email%26bm%3BEmail.bmml%26bm%3BEmail.bmml%26bm%3BEmail.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C277%2C229%2C304%22%20href%3D%22Email.bmml%22%20alt%3D%22Email%22%20id%3D%2212%22/%3E</map>
+        <text>Send%20by%20Email</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="__group__" x="80" y="188" w="224" h="270" measuredW="224" measuredH="270" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="224" h="270" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="13">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>8554646</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
