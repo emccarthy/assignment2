@@ -17,14 +17,14 @@
 		linear,
 		left bottom,
 		left top,
-		color-stop(0, rgb(109,132,162)),
-		color-stop(0.5, rgb(128,148,174)),
-		color-stop(0.51, rgb(136,155,179)),
-		color-stop(1, rgb(176,188,205))
+      /*color-stop(0, rgb(109,132,162)),
+      color-stop(0.5, rgb(128,148,174)),
+      color-stop(0.51, rgb(136,155,179)),
+      color-stop(1, rgb(176,188,205))*/
 	);
 	background-image: -moz-linear-gradient(
 		center bottom,
-		rgb(109,132,162) 0%,
+    rgb(109,132,162) 0%,
 		rgb(128,148,174) 50%,
 		rgb(136,155,179) 51%,
 		rgb(176,188,205) 100%
@@ -650,7 +650,7 @@ input.ui-input-text, .ui-input-search {
 	padding: 23px 0px 3px!important;
 }
 .ui-footer .ui-btn-text {
-	font-size: 10px;
+	font-size: 9px;
 	text-shadow: 0 none;
 }
 .ui-footer .ui-icon {
